@@ -1,0 +1,380 @@
+{
+    "1": {
+        "store_nbr": "1",
+        "city": "Quito",
+        "state": "pichincha",
+        "type": "D",
+        "cluster": "13"
+    },
+    "2": {
+        "store_nbr": "2",
+        "city": "quito",
+        "state": "pichincha",
+        "type": "D",
+        "cluster": "13"
+    },
+    "3": {
+        "store_nbr": "3",
+        "city": "Quito",
+        "state": "Pichincha",
+        "type": "D",
+        "cluster": "8"
+    },
+    "4": {
+        "store_nbr": "4",
+        "city": "Quito",
+        "state": "Pichincha",
+        "type": "D",
+        "cluster": "9"
+    },
+    "5": {
+        "store_nbr": "5",
+        "city": "Santo domingo",
+        "state": "Santo Domingo de los Tsachilas",
+        "type": "D",
+        "cluster": "4"
+    },
+    "6": {
+        "store_nbr": "6",
+        "city": "Quito",
+        "state": "Pichincha",
+        "type": "D",
+        "cluster": "13df"
+    },
+    "7": {
+        "store_nbr": "7",
+        "city": "Quito",
+        "state": "Pichincha",
+        "type": "D",
+        "cluster": "8ff"
+    },
+    "8": {
+        "store_nbr": "8",
+        "city": "Quito",
+        "state": "Pichincha",
+        "type": "D",
+        "cluster": "8"
+    },
+    "9": {
+        "store_nbr": "9",
+        "city": "Quito",
+        "state": "Pichincha",
+        "type": "b",
+        "cluster": "6"
+    },
+    "10": {
+        "store_nbr": "10",
+        "city": "Quito",
+        "state": "Pichincha",
+        "type": "C",
+        "cluster": "15-"
+    },
+    "11": {
+        "store_nbr": "11",
+        "city": "Cayambe",
+        "state": "Pichincha",
+        "type": "B",
+        "cluster": "6"
+    },
+    "12": {
+        "store_nbr": "12",
+        "city": "latacunga",
+        "state": "Cotopaxi",
+        "type": "C",
+        "cluster": "15ddf"
+    },
+    "13": {
+        "store_nbr": "13",
+        "city": "Latacunga",
+        "state": "Cotopaxi",
+        "type": "C",
+        "cluster": "15"
+    },
+    "14": {
+        "store_nbr": "14",
+        "city": "Riobamba",
+        "state": "Chimborazo",
+        "type": "C",
+        "cluster": "7"
+    },
+    "15": {
+        "store_nbr": "15",
+        "city": "Ibarra",
+        "state": "Imbabura",
+        "type": "C",
+        "cluster": "15"
+    },
+    "16": {
+        "store_nbr": "16",
+        "city": "Santo Domingo",
+        "state": "Santo Domingo de los Tsachilas",
+        "type": "C",
+        "cluster": "3"
+    },
+    "17": {
+        "store_nbr": "17",
+        "city": "Quito",
+        "state": "Pichincha",
+        "type": "c",
+        "cluster": "12"
+    },
+    "18": {
+        "store_nbr": "18",
+        "city": "Quito",
+        "state": "Pichincha",
+        "type": "B",
+        "cluster": "16"
+    },
+    "19": {
+        "store_nbr": "19",
+        "city": "Guaranda",
+        "state": "bolivar",
+        "type": "C",
+        "cluster": "15"
+    },
+    "20": {
+        "store_nbr": "20",
+        "city": "Quito",
+        "state": "Pichincha",
+        "type": "B",
+        "cluster": "6"
+    },
+    "21": {
+        "store_nbr": "21",
+        "city": "santo Domingo",
+        "state": "Santo Domingo de los Tsachilas",
+        "type": "B",
+        "cluster": "6"
+    },
+    "22": {
+        "store_nbr": "22",
+        "city": "Puyo",
+        "state": "Pastaza",
+        "type": "C",
+        "cluster": "7"
+    },
+    "23": {
+        "store_nbr": "23",
+        "city": "Ambato",
+        "state": "Tungurahua",
+        "type": "D",
+        "cluster": "9"
+    },
+    "24": {
+        "store_nbr": "24",
+        "city": "Guayaquil",
+        "state": "Guayas",
+        "type": "D",
+        "cluster": "1"
+    },
+    "25": {
+        "store_nbr": "25",
+        "city": "Salinas",
+        "state": "Santa Elena",
+        "type": "D",
+        "cluster": "1"
+    },
+    "26": {
+        "store_nbr": "26",
+        "city": "Guayaquil",
+        "state": "Guayas",
+        "type": "D",
+        "cluster": "10"
+    },
+    "27": {
+        "store_nbr": "27",
+        "city": "Daule",
+        "state": "Guayas",
+        "type": "D",
+        "cluster": "1"
+    },
+    "28": {
+        "store_nbr": "28",
+        "city": "Guayaquil",
+        "state": "Guayas",
+        "type": "E",
+        "cluster": "10"
+    },
+    "29": {
+        "store_nbr": "29",
+        "city": "Guayaquil",
+        "state": "Guayas",
+        "type": "E",
+        "cluster": "10"
+    },
+    "30": {
+        "store_nbr": "30",
+        "city": "Guayaquil",
+        "state": "Guayas",
+        "type": "C",
+        "cluster": "3"
+    },
+    "31": {
+        "store_nbr": "31",
+        "city": "Babahoyo",
+        "state": "Los Rios",
+        "type": "B",
+        "cluster": "10"
+    },
+    "32": {
+        "store_nbr": "32",
+        "city": "Guayaquil",
+        "state": "Guayas",
+        "type": "C",
+        "cluster": "3"
+    },
+    "33": {
+        "store_nbr": "33",
+        "city": "Quevedo",
+        "state": "Los Rios",
+        "type": "C",
+        "cluster": "3"
+    },
+    "34": {
+        "store_nbr": "34",
+        "city": "Guayaquil",
+        "state": "Guayas",
+        "type": "B",
+        "cluster": "6"
+    },
+    "35": {
+        "store_nbr": "35",
+        "city": "Playas",
+        "state": "Guayas",
+        "type": "C",
+        "cluster": "3"
+    },
+    "36": {
+        "store_nbr": "36",
+        "city": "Libertad",
+        "state": "Guayas",
+        "type": "E",
+        "cluster": "10"
+    },
+    "37": {
+        "store_nbr": "37",
+        "city": "Cuenca",
+        "state": "Azuay",
+        "type": "D",
+        "cluster": "2"
+    },
+    "38": {
+        "store_nbr": "38",
+        "city": "Loja",
+        "state": "Loja",
+        "type": "D",
+        "cluster": "4"
+    },
+    "39": {
+        "store_nbr": "39",
+        "city": "Cuenca",
+        "state": "Azuay",
+        "type": "B",
+        "cluster": "6"
+    },
+    "40": {
+        "store_nbr": "40",
+        "city": "Machala",
+        "state": "El Oro",
+        "type": "C",
+        "cluster": "3"
+    },
+    "41": {
+        "store_nbr": "41",
+        "city": "Machala",
+        "state": "El Oro",
+        "type": "D",
+        "cluster": "4"
+    },
+    "42": {
+        "store_nbr": "42",
+        "city": "Cuenca",
+        "state": "Azuay",
+        "type": "D",
+        "cluster": "2"
+    },
+    "43": {
+        "store_nbr": "43",
+        "city": "Esmeraldas",
+        "state": "Esmeraldas",
+        "type": "E",
+        "cluster": "10"
+    },
+    "44": {
+        "store_nbr": "44",
+        "city": "Quito",
+        "state": "Pichincha",
+        "type": "A",
+        "cluster": "5"
+    },
+    "45": {
+        "store_nbr": "45",
+        "city": "Quito",
+        "state": "Pichincha",
+        "type": "A",
+        "cluster": "11"
+    },
+    "46": {
+        "store_nbr": "46",
+        "city": "Quito",
+        "state": "Pichincha",
+        "type": "A",
+        "cluster": "14"
+    },
+    "47": {
+        "store_nbr": "47",
+        "city": "Quito",
+        "state": "Pichincha",
+        "type": "A",
+        "cluster": "14"
+    },
+    "48": {
+        "store_nbr": "48",
+        "city": "Quito",
+        "state": "Pichincha",
+        "type": "A",
+        "cluster": "14"
+    },
+    "49": {
+        "store_nbr": "49",
+        "city": "Quito",
+        "state": "Pichincha",
+        "type": "A",
+        "cluster": "11"
+    },
+    "50": {
+        "store_nbr": "50",
+        "city": "Ambato",
+        "state": "Tungurahua",
+        "type": "A",
+        "cluster": "14"
+    },
+    "51": {
+        "store_nbr": "51",
+        "city": "Guayaquil",
+        "state": "Guayas",
+        "type": "A",
+        "cluster": "17"
+    },
+    "52": {
+        "store_nbr": "52",
+        "city": "Manta",
+        "state": "Manabi",
+        "type": "A",
+        "cluster": "11"
+    },
+    "53": {
+        "store_nbr": "53",
+        "city": "Manta",
+        "state": "Manabi",
+        "type": "D",
+        "cluster": "13"
+    },
+    "54": {
+        "store_nbr": "54",
+        "city": "El Carmen",
+        "state": "Manabi",
+        "type": "C",
+        "cluster": "3"
+    }
+}
